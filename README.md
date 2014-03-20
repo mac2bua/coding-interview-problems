@@ -1,2 +1,2 @@
-InterviewProblems
-=================
+Coding Interview Problems
+=========================
